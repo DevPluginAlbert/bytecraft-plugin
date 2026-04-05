@@ -1,0 +1,6 @@
+name: ByteCraft
+version: 0.1.0-SNAPSHOT
+main: com.bytecraft.plugin.ByteCraftPlugin
+api-version: '1.21'
+author: ByteCraftPluginStudio
+description: Minecraft plugin for Paper/Spigot servers.
