@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files (Gradle handles this, but safety net)
+*.class
+
+# Logs
+*.log
+
+# Paper/Spigot test server
+run/
+test-server/
+server/
+plugins/
+logs/
+world/
+world_nether/
+world_the_end/
+crash-reports/
+
+# Environment
+.env
+.env.local
+
+# Dependency cache
+.caches/
